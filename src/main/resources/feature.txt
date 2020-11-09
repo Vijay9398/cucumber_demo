@@ -1,0 +1,6 @@
+user opens the url
+user clicks on login under homepage
+user enters username
+user enters password
+user click on login
+user able to login
